@@ -1,0 +1,18 @@
+label_key,attack_label_raw,attack_family,binary_label,severity_tier
+1,Normal,Normal,0,0
+2,Bot,Malware,1,4
+3,Exploits,Brute Force,1,2
+4,Reconnaissance,Reconnaissance,1,1
+5,DoS,DoS,1,3
+6,Generic,Web Attack,1,2
+7,Shellcode,Infiltration,1,4
+8,Fuzzers,Web Attack,1,2
+9,Worms,Malware,1,4
+10,Backdoors,Malware,1,4
+11,Analysis,Infiltration,1,4
+12,DDoS,DDoS,1,3
+13,Brute Force,Brute Force,1,2
+14,Malware,Malware,1,4
+15,Web Attack,Web Attack,1,2
+16,Infiltration,Infiltration,1,4
+17,Unknown,Unknown,1,1

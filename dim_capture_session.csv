@@ -1,0 +1,4 @@
+session_key,source_dataset,session_name,collection_tool,network_scenario
+1,CICIDS2017,CICIDS2017 Full Week,CICFlowMeter,Enterprise network traffic
+2,UNSW-NB15,UNSW-NB15 Mixed Traffic,Argus/Bro-IDS,Synthetic attack traffic
+3,SYNTHETIC,Simulated Pipeline Test,Simulation,Synthetic attack flows for DWH testing
